@@ -1,18 +1,13 @@
 import 'package:flutter/material.dart';
 
-class CategoryCard extends StatelessWidget {
-  final String categoryName;
-  final IconData icon;
-
-  const CategoryCard({
-    super.key,
-    required this.categoryName,
-    required this.icon,
-  });
+class TourCard extends StatelessWidget {
+  final String tourName;
+  const TourCard({super.key, required this.tourName});
 
   @override
   Widget build(BuildContext context) {
     return Container(
+      width: 200,
       decoration: BoxDecoration(
         color: Colors.white,
         borderRadius: BorderRadius.circular(15),
@@ -22,10 +17,14 @@ class CategoryCard extends StatelessWidget {
       child: Column(
         mainAxisAlignment: MainAxisAlignment.center,
         children: [
-          Icon(icon, color: Colors.black, size: 30),
           Text(
-            categoryName,
-            style: TextStyle(color: Colors.black, fontSize: 25),
+            tourName,
+            softWrap: true,
+            style: TextStyle(
+              color: Colors.black,
+              fontSize: 15,
+              fontWeight: FontWeight.w500,
+            ),
           ),
         ],
       ),

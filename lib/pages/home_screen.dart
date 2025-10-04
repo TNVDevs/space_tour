@@ -24,7 +24,7 @@ class _HomeScreenState extends State<HomeScreen> {
         SearchBar(
           leading: Icon(Icons.search_rounded, size: 25),
           backgroundColor: WidgetStatePropertyAll(Colors.white),
-          hintText: "Search for a tour",
+          hintText: "Search",
           hintStyle: WidgetStatePropertyAll(TextStyle(color: Colors.black)),
         ),
         SizedBox(height: 10),
