@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:space_tour/widgets/category_card.dart';
 import 'package:space_tour/widgets/featuring_tour_card.dart';
 
 class HomeScreen extends StatefulWidget {
@@ -9,15 +10,18 @@ class HomeScreen extends StatefulWidget {
 }
 
 class _HomeScreenState extends State<HomeScreen> {
+  List<Map<String, dynamic>> categories = [
+    {"categoryName": "Education", "icon": Icons.school_rounded},
+    {"categoryName": "Live Now", "icon": Icons.live_tv_rounded},
+    {"categoryName": "Upcoming", "icon": Icons.newspaper_rounded},
+  ];
+
   @override
   Widget build(BuildContext context) {
     return ListView(
       padding: EdgeInsets.symmetric(horizontal: 10),
       children: [
         SearchBar(
-          // side: WidgetStatePropertyAll(
-          //   BorderSide(color: Colors.white, width: 2),
-          // ),
           leading: Icon(Icons.search_rounded, size: 25),
           backgroundColor: WidgetStatePropertyAll(Colors.white),
           hintText: "Search for a tour",
@@ -47,6 +51,22 @@ class _HomeScreenState extends State<HomeScreen> {
             color: Colors.white,
             fontWeight: FontWeight.w500,
             fontSize: 30,
+          ),
+        ),
+        SizedBox(height: 10),
+        SizedBox(
+          height: 200,
+          child: ListView.builder(
+            scrollDirection: Axis.horizontal,
+            itemCount: categories.length,
+            itemBuilder: (context, index) {
+              final category = categories[index];
+
+              return CategoryCard(
+                categoryName: category['categoryName'],
+                icon: category['icon'],
+              );
+            },
           ),
         ),
       ],
