@@ -32,7 +32,7 @@ This project demonstrates how **Low Earth Orbit (LEO)** can be commercialized re
 ## 📱 Screenshots
 | VR Player | Explore Page | AI Chat |
 |------------|--------------|---------|
-| ![VR Player](https://cdn.spacetour.app/screens/vr_player.png) | ![Explore](https://cdn.spacetour.app/screens/explore.png) | ![Chat](https://cdn.spacetour.app/screens/chat.png) |
+| ![VR Player](https://drive.google.com/file/d/1cUDE--caIR16qButF56kpXWi8mVfhUqM/view?usp=drive_link) | ![Explore](https://cdn.spacetour.app/screens/explore.png) | ![Chat](https://cdn.spacetour.app/screens/chat.png) |
 
 *(Screenshots are conceptual and for demo presentation use.)*
 
