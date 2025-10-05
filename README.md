@@ -44,7 +44,8 @@ You can **download and test the SpaceTour demo app** right now!
 
 Need more information about how SpaceTour works behind the scenes?  
 Check out our detailed **Business Plan & Model** here:  
-👉 [**View Business Plan (PDF)**](https://docs.google.com/document/d/1yCTGYfazu7SH00toaT2l86w0f3NuBf9p_ANj3ZE5RU0/edit?usp=sharing)
+👉 [**View Business Plan (DOCX)**](https://docs.google.com/document/d/1yCTGYfazu7SH00toaT2l86w0f3NuBf9p_ANj3ZE5RU0/edit?usp=sharing)
+👉 [**View Business Plan (PDF)**](https://drive.google.com/file/d/1yLNVXVqYPhXDP2weH9Z8yZGB6AUfVuC9/view?usp=drive_link)
 
 ---
 
