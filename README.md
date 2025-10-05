@@ -9,7 +9,9 @@
 Excited? 🚀  
 You can **download and test the SpaceTour demo app** right now!
 
-👉 [**Download APK from Google Drive**](https://drive.google.com/file/d/10xA0OBPAuV5f_6B-OOo9qqE98srdFckn/view?usp=drive_link)  
+📹 [**Watch our app demo on YouTube**](https://drive.google.com/file/d/10xA0OBPAuV5f_6B-OOo9qqE98srdFckn/view?usp=drive_link) 
+
+👉 [**Download APK from Google Drive**](https://drive.google.com/file/d/10xA0OBPAuV5f_6B-OOo9qqE98srdFckn/view?usp=drive_link) 
 *(Android only — built with Flutter)*  
 
 > 💡 After downloading, install the APK on your Android device.  
