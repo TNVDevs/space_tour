@@ -27,43 +27,24 @@ This project demonstrates how **Low Earth Orbit (LEO)** can be commercialized re
 
 ---
 
-## 🧩 Tech Stack
-| Layer | Technology |
-|--------|-------------|
-| **Frontend** | Flutter (Dart) |
-| **Streaming** | YouTube Player IFrame (supports 360° video) |
-| **Design System** | Material 3 + Custom Dark Theme |
-| **AI Simulation** | Local mock assistant (replaceable with backend API) |
+## 📦 Try the Demo App
 
----
+Excited? 🚀  
+You can **download and test the SpaceTour demo app** right now!
 
----
+👉 [**Download APK from Google Drive**](https://drive.google.com/file/d/10xA0OBPAuV5f_6B-OOo9qqE98srdFckn/view?usp=drive_link)  
+*(Android only — built with Flutter)*  
 
-## 📦 Download the Demo App (APK)
-
-You can try the **SpaceTour Demo App** right now! 🚀  
-Download the latest **APK** from our [Releases page](https://github.com/TNVDevs/space_tour/releases).
-
-> 📲 After downloading, install the APK on your Android device.  
+> 💡 After downloading, install the APK on your Android device.  
 > Make sure **“Install from unknown sources”** is enabled in your device settings.
 
 ---
 
+## 📄 Learn More
 
-## ⚙️ Installation & Setup
+Need more information about how SpaceTour works behind the scenes?  
+Check out our detailed **Business Plan & Model** here:  
+👉 [**View Business Plan (PDF)**](https://docs.google.com/document/d/1yCTGYfazu7SH00toaT2l86w0f3NuBf9p_ANj3ZE5RU0/edit?usp=sharing)
 
-### 1️⃣ Clone the repository
-```bash
-git clone https://github.com/TNVDevs/space_tour.git
-cd space_tour
-```
+---
 
-### 2️⃣ Install dependencies
-```bash
-flutter pub get
-```
-
-### 3️⃣ Run the app
-```bash
-flutter pub get
-```
