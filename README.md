@@ -2,8 +2,6 @@
 
 ### *Experience the Earth from Space — Virtually.*
 
-![SpaceTour Banner](https://cdn.spacetour.app/assets/banner.jpg)
-
 ---
 
 ## 🛰️ About the Project
@@ -26,15 +24,6 @@ This project demonstrates how **Low Earth Orbit (LEO)** can be commercialized re
 | 🎓 **Educational Focus** | Perfect for schools, universities, and museums to teach geography and space awareness. |
 | 💬 **Interactive UI** | Real-time chat simulation, immersive YouTube VR player, and elegant dark-space theme. |
 | 🧾 **Mock Data Mode** | Includes sample tours across Europe, Asia, and the U.S. with 25% discount offers for demo purposes. |
-
----
-
-## 📱 Screenshots
-| VR Player | Explore Page | AI Chat |
-|------------|--------------|---------|
-| ![VR Player](https://drive.google.com/file/d/1cUDE--caIR16qButF56kpXWi8mVfhUqM/view?usp=drive_link) | ![Explore](https://cdn.spacetour.app/screens/explore.png) | ![Chat](https://cdn.spacetour.app/screens/chat.png) |
-
-*(Screenshots are conceptual and for demo presentation use.)*
 
 ---
 
