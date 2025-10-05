@@ -30,10 +30,8 @@ This project demonstrates how **Low Earth Orbit (LEO)** can be commercialized re
 ## 🧩 Tech Stack
 | Layer | Technology |
 |--------|-------------|
-| **Frontend** | Flutter (Dart) + Riverpod |
-| **Backend (Mock)** | Firebase / JSON Server (for demo data) |
+| **Frontend** | Flutter (Dart) |
 | **Streaming** | YouTube Player IFrame (supports 360° video) |
-| **State Management** | Riverpod Providers |
 | **Design System** | Material 3 + Custom Dark Theme |
 | **AI Simulation** | Local mock assistant (replaceable with backend API) |
 
