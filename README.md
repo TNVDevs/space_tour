@@ -4,17 +4,6 @@
 
 ---
 
-## 🛰️ About the Project
-**SpaceTour** is an innovative mobile demo built for the **NASA Space Apps Challenge 2025** under the challenge
-> **Commercializing Low Earth Orbit (LEO)**
-
-Our goal is to **make space accessible to everyone** through **VR and AR technology**.  
-Instead of physically flying to orbit, users can experience the view of Earth **live from satellites**, in **360° virtual reality** — right from their smartphones.
-
-This project demonstrates how **Low Earth Orbit (LEO)** can be commercialized responsibly for education, tourism, and global collaboration.
-
----
-
 ## 📦 Try the Demo App
 
 Excited? 🚀  
@@ -37,4 +26,3 @@ Check out our detailed **Business Plan & Model** here:
 👉 [**View Business Plan (PDF)**](https://drive.google.com/file/d/1yLNVXVqYPhXDP2weH9Z8yZGB6AUfVuC9/view?usp=drive_link)
 
 ---
-
