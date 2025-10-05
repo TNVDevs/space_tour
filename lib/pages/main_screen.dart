@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:sliding_clipped_nav_bar/sliding_clipped_nav_bar.dart';
 import 'package:space_tour/pages/home_screen.dart';
-import 'package:space_tour/pages/profile_screen.dart';
 import 'package:space_tour/pages/tours_screen.dart';
+import 'package:space_tour/pages/vr_player.dart';
 
 import 'my_tours.dart';
 
@@ -29,7 +29,7 @@ class _MainScreenState extends State<MainScreen> {
             HomeScreen(),
             ToursScreen(),
             MyToursScreen(),
-            ProfileScreen(),
+            VRPlayerScreen(videoId: "Kgb5efL2dng"),
           ],
         ),
       ),
@@ -56,23 +56,6 @@ class _MainScreenState extends State<MainScreen> {
           BarItem(icon: Icons.camera_alt_rounded, title: 'VR Player'),
         ],
       ),
-      // bottomNavigationBar: GNav(
-      //   rippleColor: Colors.grey[300]!,
-      //   hoverColor: Colors.grey[100]!,
-      //   gap: 8,
-      //   activeColor: Colors.black,
-      //   iconSize: 35,
-      //   padding: EdgeInsets.symmetric(horizontal: 20, vertical: 12),
-      //   duration: Duration(milliseconds: 400),
-      //   tabBackgroundColor: Colors.grey[100]!,
-      //   color: Colors.black,
-      //   tabs: [
-      //     GButton(icon: Icons.home_rounded),
-      //     GButton(icon: Icons.flight_takeoff_rounded),
-      //     GButton(icon: Icons.favorite_rounded),
-      //     GButton(icon: Icons.person),
-      //   ],
-      // ),
     );
   }
 }
